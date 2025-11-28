@@ -1,0 +1,1 @@
+export default function App(){ return (<div style={{textAlign:'center', padding:'40px'}}>READY FOR VERCEL</div>);}
